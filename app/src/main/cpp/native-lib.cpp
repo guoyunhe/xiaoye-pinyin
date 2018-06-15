@@ -4,7 +4,7 @@
 extern "C" JNIEXPORT jstring
 
 JNICALL
-Java_me_guoyunhe_xiaoyepinyin_MainActivity_stringFromJNI(
+Java_me_guoyunhe_xiaoyepinyin_XiaoyePinyinSettings_stringFromJNI(
         JNIEnv *env,
         jobject /* this */) {
     std::string hello = "Hello from C++";

@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class XiaoyePinyinSettings extends AppCompatActivity {
 
     // Used to load the 'native-lib' library on application startup.
     static {
